@@ -1,0 +1,188 @@
+kkuk*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border-bottom: 1px solid rgb(95, 87, 87);
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 30px 0px;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{width: 70px;}
+nav{
+
+width: 40%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 40px;
+    
+text-transform: capitalize;
+    
+font-size: 15px;
+    
+color: #8e7f7f;
+}
+.content-section{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content-section h1{
+
+font-size: 40px;
+
+text-transform: capitalize;
+
+margin-top: 30px;
+}
+.content-section h2{
+
+font-size: 40px;
+
+text-transform: capitalize;
+
+color: #008AFF;
+
+margin: 15px 0;
+}
+.content-section p{
+
+color: #6f6060;
+
+font-size: 15px;
+
+margin: 20px 10px;
+}
+.content-section img{
+    
+}
+.success{
+    
+width: 70%;
+    
+margin: auto;
+    
+overflow: hidden;
+    
+margin-top: 50px;
+    
+margin-bottom: 100px;
+    
+/* text-align: right; */
+}
+.success-left-content{
+
+width: 48%;
+
+float: left;
+
+text-align: right;
+}
+.success-left-content h1{
+
+color: #e97844;
+
+font-size: 40px;
+
+margin: 0;
+}
+.success-left-content p{
+
+margin: 0;
+
+font-size: 15px;
+}
+.success-right-content{
+
+width: 48%;
+float: right;
+
+text-align: left;
+}
+.success-right-content h1{
+
+font-size: 47px;
+
+margin: 0;
+}
+.feature-section{
+overflow: hidden;
+width: 90%;
+
+margin: auto;
+
+height: 100px;
+}
+.feature-one{
+ 
+width: 25%;
+ 
+float: left;
+ 
+text-align: center;
+ 
+background-color: #FFEFEF;
+ 
+padding: 26px 15px;
+}
+.feature-two{
+text-align: center;
+width: 25%;
+background-color: #EFFBF7;
+float: left;
+padding:30px 15px;
+margin-left: 10%;
+}
+.feature-three{
+ float: right;
+ background-color: #FFFBEF;
+ width: 25%;
+ text-align: center;
+ padding: 33px  15px;
+}
+.feature-one img, .feature-two img, .feature-three img{
+
+width: 143px;
+}
+.feature-one h2, .feature-two h2, .feature-three h2{
+
+text-align: left;
+}
+.feature-one p, .feature-two p, .feature-three p{
+    
+text-align: left;
+}
+.footer{background-color: #008AFF;padding: 5px 0;text-align: center;}
+.footer p{
+
+color: #d6d3d3;
+}
+.footer p span{
+
+color: white;
+
+font-size: 17px;
+
+font-weight: 700;
+
+letter-spacing: 3px;
+}
